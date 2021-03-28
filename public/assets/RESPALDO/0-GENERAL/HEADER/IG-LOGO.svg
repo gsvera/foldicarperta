@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <defs>
+    <clipPath id="clip-Mesa_de_trabajo_4">
+      <rect width="1200" height="1200"/>
+    </clipPath>
+  </defs>
+  <g id="Mesa_de_trabajo_4" data-name="Mesa de trabajo – 4" clip-path="url(#clip-Mesa_de_trabajo_4)">
+    <rect width="1200" height="1200" fill="#fff"/>
+    <g id="Grupo_246" data-name="Grupo 246" transform="translate(-649 -529)">
+      <g id="IG" transform="translate(649 529)">
+        <circle id="Elipse_3" data-name="Elipse 3" cx="599.831" cy="599.831" r="599.831" fill="#103f74"/>
+        <g id="Grupo_29" data-name="Grupo 29" transform="translate(248.172 247.351)">
+          <g id="Grupo_28" data-name="Grupo 28">
+            <path id="Trazado_35" data-name="Trazado 35" d="M622.81,544.9a41.231,41.231,0,1,0,41.216,41.247A41.238,41.238,0,0,0,622.81,544.9Z" transform="translate(-84.943 -419.344)" fill="#fff"/>
+            <path id="Trazado_36" data-name="Trazado 36" d="M744.7,546.589c-95.5,0-173.2,77.7-173.2,173.2s77.7,173.2,173.2,173.2,173.2-77.7,173.2-173.2S840.2,546.589,744.7,546.589Zm0,284.149A110.952,110.952,0,1,1,855.655,719.786,111.075,111.075,0,0,1,744.7,830.738Z" transform="translate(-390.157 -368.157)" fill="#fff"/>
+            <path id="Trazado_37" data-name="Trazado 37" d="M1057.764,1244.186h-280.8c-116.469,0-211.248-94.779-211.248-211.248v-280.8c0-116.5,94.779-211.248,211.248-211.248h280.8c116.5,0,211.278,94.749,211.278,211.248v280.8C1269.043,1149.407,1174.264,1244.186,1057.764,1244.186Zm-280.8-637.128c-79.985,0-145.083,65.066-145.083,145.085v280.8c0,79.987,65.1,145.085,145.083,145.085h280.8c80.016,0,145.084-65.1,145.084-145.085v-280.8c0-80.019-65.067-145.085-145.084-145.085Z" transform="translate(-565.719 -540.896)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

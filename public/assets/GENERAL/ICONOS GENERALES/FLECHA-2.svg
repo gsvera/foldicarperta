@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <defs>
+    <clipPath id="clip-Mesa_de_trabajo_2">
+      <rect width="1200" height="1200"/>
+    </clipPath>
+  </defs>
+  <g id="Mesa_de_trabajo_2" data-name="Mesa de trabajo – 2" clip-path="url(#clip-Mesa_de_trabajo_2)">
+    <rect width="1200" height="1200" fill="#fff"/>
+    <g id="Grupo_244" data-name="Grupo 244" transform="translate(-724.543 -434.543)">
+      <g id="ARROW-1" transform="translate(832 542)">
+        <circle id="Elipse_5" data-name="Elipse 5" cx="492.678" cy="492.678" r="492.678" fill="#103f74"/>
+        <g id="Grupo_34" data-name="Grupo 34" transform="translate(303.919 144.599)">
+          <path id="Trazado_48" data-name="Trazado 48" d="M1065.941,1591.678l-55.694-63.444L1334.47,1243.6,1010.246,958.966l55.694-63.445,396.5,348.078Z" transform="translate(-1010.246 -895.521)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

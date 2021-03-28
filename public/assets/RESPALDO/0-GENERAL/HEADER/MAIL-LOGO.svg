@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <defs>
+    <clipPath id="clip-Mesa_de_trabajo_5">
+      <rect width="1200" height="1200"/>
+    </clipPath>
+  </defs>
+  <g id="Mesa_de_trabajo_5" data-name="Mesa de trabajo – 5" clip-path="url(#clip-Mesa_de_trabajo_5)">
+    <rect width="1200" height="1200" fill="#fff"/>
+    <g id="Grupo_247" data-name="Grupo 247" transform="translate(-678 -563)">
+      <g id="MAIL" transform="translate(678 563)">
+        <circle id="Elipse_4" data-name="Elipse 4" cx="600" cy="600" r="600" fill="#103f74"/>
+        <g id="Grupo_33" data-name="Grupo 33" transform="translate(199.711 291.908)">
+          <path id="Trazado_44" data-name="Trazado 44" d="M674.366,550.34,952.547,865.952a83.3,83.3,0,0,0,125.027,0L1350.924,555.8a30.045,30.045,0,0,1,7.745-6.114,93.849,93.849,0,0,0-37.811-7.932h-611.6a93.808,93.808,0,0,0-36.306,7.273A17.8,17.8,0,0,1,674.366,550.34Z" transform="translate(-614.767 -541.75)" fill="#fff"/>
+          <path id="Trazado_45" data-name="Trazado 45" d="M1457.136,543.163a29.7,29.7,0,0,1-5.327,9L1178.425,862.317a142.657,142.657,0,0,1-214.065,0L686.181,546.7c-.566-.658-.939-1.38-1.443-2.038A93.9,93.9,0,0,0,671.1,593.354v427.192a94.476,94.476,0,0,0,94.494,94.492h611.6a94.5,94.5,0,0,0,94.494-94.492V593.354A93.91,93.91,0,0,0,1457.136,543.163Z" transform="translate(-671.1 -498.863)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

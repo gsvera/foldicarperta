@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <defs>
+    <clipPath id="clip-MAIL-GRIS">
+      <rect width="1200" height="1200"/>
+    </clipPath>
+  </defs>
+  <g id="MAIL-GRIS" clip-path="url(#clip-MAIL-GRIS)">
+    <rect width="1200" height="1200" fill="#fff"/>
+    <g id="MAIL" transform="translate(66 66)">
+      <ellipse id="Elipse_4" data-name="Elipse 4" cx="533.722" cy="533.722" rx="533.722" ry="533.722" fill="#333"/>
+      <g id="Grupo_33" data-name="Grupo 33" transform="translate(177.65 259.663)">
+        <path id="Trazado_44" data-name="Trazado 44" d="M674.211,549.395,921.662,830.141a74.1,74.1,0,0,0,111.221,0l243.154-275.9a26.725,26.725,0,0,1,6.889-5.436,83.469,83.469,0,0,0-33.633-7.057H705.254a83.429,83.429,0,0,0-32.3,6.471A15.619,15.619,0,0,1,674.211,549.395Z" transform="translate(-621.197 -541.752)" fill="#fff"/>
+        <path id="Trazado_45" data-name="Trazado 45" d="M1370.313,543.164a26.447,26.447,0,0,1-4.74,8l-243.186,275.9a126.9,126.9,0,0,1-190.42,0L684.518,546.314c-.5-.586-.836-1.229-1.283-1.814A83.53,83.53,0,0,0,671.1,587.811v380a84.042,84.042,0,0,0,84.057,84.055H1299.2a84.056,84.056,0,0,0,84.055-84.055v-380A83.552,83.552,0,0,0,1370.313,543.164Z" transform="translate(-671.102 -503.758)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

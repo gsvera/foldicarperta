@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <defs>
+    <clipPath id="clip-FB-GRIS">
+      <rect width="1200" height="1200"/>
+    </clipPath>
+  </defs>
+  <g id="FB-GRIS" clip-path="url(#clip-FB-GRIS)">
+    <rect width="1200" height="1200" fill="#fff"/>
+    <g id="Grupo_325" data-name="Grupo 325" transform="translate(20 -0.227)">
+      <g id="FB" transform="translate(37 57.227)">
+        <g id="Grupo_25" data-name="Grupo 25" transform="translate(0)">
+          <path id="Trazado_32" data-name="Trazado 32" d="M1531.823,1075.186c0-299.776-243.009-542.784-542.757-542.784-299.776,0-542.786,243.009-542.786,542.784,0,270.907,198.5,495.459,457.986,536.17V1232.085H766.439v-156.9H904.265V955.6c0-136.038,81-211.179,205.007-211.179,59.391,0,121.491,10.611,121.491,10.611V888.582h-68.438c-67.433,0-88.458,41.856-88.458,84.773v101.831H1224.4l-24.069,156.9h-126.46v379.271C1333.351,1570.645,1531.823,1346.093,1531.823,1075.186Z" transform="translate(-446.279 -532.401)" fill="#333"/>
+          <path id="Trazado_33" data-name="Trazado 33" d="M891.634,1027.662l24.069-156.9H765.172V768.932c0-42.918,21.025-84.771,88.459-84.771h68.438V550.6S859.969,540,800.577,540c-124,0-205.006,75.139-205.006,211.177V870.765H457.746v156.9H595.571v379.271a548.816,548.816,0,0,0,169.6,0V1027.662Z" transform="translate(-137.587 -327.978)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

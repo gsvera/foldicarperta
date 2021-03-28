@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <defs>
+    <clipPath id="clip-IG-GRIS">
+      <rect width="1200" height="1200"/>
+    </clipPath>
+  </defs>
+  <g id="IG-GRIS" clip-path="url(#clip-IG-GRIS)">
+    <rect width="1200" height="1200" fill="#fff"/>
+    <g id="IG" transform="translate(68.555 68.555)">
+      <circle id="Elipse_3" data-name="Elipse 3" cx="531" cy="531" r="531" transform="translate(0.445 0.445)" fill="#333"/>
+      <g id="Grupo_29" data-name="Grupo 29" transform="translate(219.878 219.151)">
+        <g id="Grupo_28" data-name="Grupo 28">
+          <path id="Trazado_35" data-name="Trazado 35" d="M618.11,544.9a36.53,36.53,0,1,0,36.516,36.545A36.537,36.537,0,0,0,618.11,544.9Z" transform="translate(-141.563 -433.66)" fill="#fff"/>
+          <path id="Trazado_36" data-name="Trazado 36" d="M724.958,546.588c-84.614,0-153.452,68.84-153.452,153.452s68.838,153.452,153.452,153.452,153.452-68.84,153.452-153.452S809.57,546.588,724.958,546.588Zm0,251.752a98.3,98.3,0,1,1,98.3-98.3A98.408,98.408,0,0,1,724.958,798.34Z" transform="translate(-410.833 -388.498)" fill="#fff"/>
+          <path id="Trazado_37" data-name="Trazado 37" d="M1001.669,1164H752.882c-103.19,0-187.163-83.971-187.163-187.161V728.058c0-103.218,83.974-187.163,187.163-187.163h248.787c103.216,0,187.19,83.945,187.19,187.163V976.843C1188.859,1080.032,1104.885,1164,1001.669,1164ZM752.882,599.516A128.683,128.683,0,0,0,624.34,728.058V976.843c0,70.866,57.675,128.544,128.541,128.544h248.787a128.685,128.685,0,0,0,128.539-128.544V728.058a128.665,128.665,0,0,0-128.539-128.541Z" transform="translate(-565.719 -540.895)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
